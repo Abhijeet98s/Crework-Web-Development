@@ -6,7 +6,7 @@ body {
   background: linear-gradient(to right, #000046, #1cb5e0);
   background-size: cover;
 }
-h2{
+h2 {
   color: #fff;
 }
 .container {
@@ -46,7 +46,6 @@ button:hover {
   color: white;
   font-weight: 500;
 }
-
 .info input[type="email"],
 .info input[type="password"],
 .info input[type="text"] {
@@ -98,7 +97,7 @@ label {
   text-align: center;
   color: white;
 }
-a.signup {
+a.login {
   border: 1px solid turquoise;
   padding: 5px 10px;
   border-radius: 5px;
@@ -109,6 +108,6 @@ a.signup {
   bottom: 2%;
   left: 43%;
 }
-a.signup:hover {
+a.login:hover {
   background: turquoise;
 }
