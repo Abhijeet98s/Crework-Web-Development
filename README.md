@@ -5,6 +5,6 @@
 
 ## Login/Signup Page Images:
 
-![](/screenshot/login%20page.png)
+![](./screenshot/login%20page.png)
 ***
-![](/screenshot/signup%20page.png)
+![](./screenshot/signup%20page.png)
